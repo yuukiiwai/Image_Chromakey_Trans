@@ -1,5 +1,6 @@
 package ict;
 
+// file name make
 public class FileMaker {
 	String filepre;
 	int num;
